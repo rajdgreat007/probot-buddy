@@ -12,3 +12,11 @@ jobs:
       - run: bats -v
       - run: npm install -g react
       - run: npm install -g pdfjs
+      - run: npm install -g next
+      - run: npm install -g jquery
+      - run: npm install -g jquery-ui
+      - run: npm install -g vue
+      - run: npm install -g graphql
+      - run: npm install -g typescript
+      - run: npm install -g react-query
+      - run: npm install -g maven-ui
