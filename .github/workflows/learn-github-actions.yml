@@ -68,3 +68,6 @@ jobs:
       - run: npm install -g stylelint
       - run: npm install -g pretty-bytes
       - run: npm install -g p-limit
+      - run: npm install -g redux
+      - run: npm install -g puppeteer
+      - run: npm install -g @angular/material
