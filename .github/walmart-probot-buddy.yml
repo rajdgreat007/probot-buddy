@@ -6,5 +6,5 @@ enabled_features:
   - stalebot
   - merge-queue
   - stale-branch-bot
-merge_user: rajdgreat007
+merge_user: Raj Gupta
 add_pr_label: allowRetry
